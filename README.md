@@ -1,2 +1,2 @@
-# Rapor-Digital
-Repo Rapor MTS Al.Anshor
+# GarudaCBT
+[Lihat selengkapnya](https://garudacbt.github.io/cbt "Homepage")
